@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9A91E8FA1F0D1281003D44DD"
-               BuildableName = "ParticleSDKExampleApp.app"
-               BlueprintName = "ParticleSDKExampleApp"
-               ReferencedContainer = "container:ParticleSDKExampleApp.xcodeproj">
+               BuildableName = "ParticleSDKExampleApp-Carthage.app"
+               BlueprintName = "ParticleSDKExampleApp-Carthage"
+               ReferencedContainer = "container:ParticleSDKExampleApp-Carthage.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9A91E8FA1F0D1281003D44DD"
-            BuildableName = "ParticleSDKExampleApp.app"
-            BlueprintName = "ParticleSDKExampleApp"
-            ReferencedContainer = "container:ParticleSDKExampleApp.xcodeproj">
+            BuildableName = "ParticleSDKExampleApp-Carthage.app"
+            BlueprintName = "ParticleSDKExampleApp-Carthage"
+            ReferencedContainer = "container:ParticleSDKExampleApp-Carthage.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9A91E8FA1F0D1281003D44DD"
-            BuildableName = "ParticleSDKExampleApp.app"
-            BlueprintName = "ParticleSDKExampleApp"
-            ReferencedContainer = "container:ParticleSDKExampleApp.xcodeproj">
+            BuildableName = "ParticleSDKExampleApp-Carthage.app"
+            BlueprintName = "ParticleSDKExampleApp-Carthage"
+            ReferencedContainer = "container:ParticleSDKExampleApp-Carthage.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9A91E8FA1F0D1281003D44DD"
-            BuildableName = "ParticleSDKExampleApp.app"
-            BlueprintName = "ParticleSDKExampleApp"
-            ReferencedContainer = "container:ParticleSDKExampleApp.xcodeproj">
+            BuildableName = "ParticleSDKExampleApp-Carthage.app"
+            BlueprintName = "ParticleSDKExampleApp-Carthage"
+            ReferencedContainer = "container:ParticleSDKExampleApp-Carthage.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
